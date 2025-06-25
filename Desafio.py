@@ -50,7 +50,7 @@ while True:
             print("Não foram realizadas movimentações.")
         else:
             print(extrato)
-        print(f"\nSaldo: {saldo:.2f}")
+        print(f"\nSaldo: R$ {saldo:.2f}")
         print("==========================")
         #Enquanto a opção for Sair, faça:
     elif opcao == "x":
