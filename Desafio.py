@@ -53,7 +53,7 @@ while True:
         print(f"\nSaldo: {saldo:.2f}")
         print("==========================")
         #Enquanto a opção for Sair, faça:
-    elif opcao == "q":
+    elif opcao == "x":
         break
 
     else:
